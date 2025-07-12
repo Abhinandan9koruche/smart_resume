@@ -1,0 +1,41 @@
+Abhinandan Koruche 
+Kasabe Digraj,Sangli, Maharastra 416 305  
+ 
+  Summary:  
+B.Tech IT student skilled in Java, Python, C, SQL, JavaScript with expertise in web development, AI chatbots, 
+and e-commerce platforms. Developed an AI-powered chatbot and e-commerce website for Bhagwant Arts 
+using Dialogflow, Firebase, and WordPress, enhancing automation, customer engagement, and user experience. 
+Strong in problem-solving, teamwork, and innovation 
+ 
+Education  
+ 
+Walchand Institute Of Technology  
+Bachelor of Technology in Information Technology  
+• CGPA: 8.98/10.0 
+Maharashtra State Board, H.S.C 
+• Percentage: 80.00% 
+Experience / Projects  
+ 
+ 
+   Personalised E-Commerce Website For Bhagwant Art Shops. 
+Minor Project with Team 
+Created an online shopping platform for Bhagwant Art, showcasing handcrafted divine idols, decorative items, and festive 
+products. 
+Empowered artisans by enhancing digital visibility and enabling direct customer connections. 
+Integrated key features: Product Listings, User Authentication, Shopping Cart, Secure Payments, and Targeted Ads 
+  Bhagwant Arts Chatbot: 
+Developed an AI-powered chatbot using JavaScript, Dialogflow, and Firebase to enhance customer 
+engagement and automate FAQ responses for Bhagwant Arts. 
+ Integrated the chatbot with the website to provide real-time support, improving user experience and      
+response efficiency.  
+  Technical Skills :  
+        Languages: Python, Java, C, HTML/CSS, SQL 
+        Developer Tools: VS Code, Jupyter Notebook, Android Studio  
+        Technologies/Frameworks: Firebase, WordPress   
+Certificates 
+ 
+        Programming using Java  
+Programming in C  
+Programming in C++ 
+Programming in DataStructure 
+8767215699 abhikoruche9@gmail.com Linkedin.com/in/abhi-koruche-2738b0259 
